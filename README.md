@@ -1,0 +1,1 @@
+# method-for-predicting-low-cycle-fatigue-life-at-various-temperatures-for-nickel-based-superalloys
