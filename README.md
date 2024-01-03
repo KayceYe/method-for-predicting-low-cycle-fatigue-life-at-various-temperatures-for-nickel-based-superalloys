@@ -45,4 +45,4 @@ This repository includes three parts:
   
   **Q**: I want to verify the potential applications of the public dataset.
   
-  **A**: The dataset and code are intended for to support academic research and analysis.
+  **A**: The dataset and code are intended to support academic research and analysis.
