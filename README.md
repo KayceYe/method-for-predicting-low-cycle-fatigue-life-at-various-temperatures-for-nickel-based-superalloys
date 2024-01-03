@@ -39,7 +39,7 @@ This repository includes three parts:
 
   ## :pushpin: Q&A
 
-  **Q**: I want to reproduce the predicted results presented in Table 4 of the manuscript
+  **Q**: I want to reproduce the predicted results presented in Table 4 of the manuscript.
   
   **A**: Store the 'Predicted_BPANN.mat', 'Predicted_GABP.mat', and 'Predicted_load.m' in the same folder and then run the 'Predicted_load.m' accordingly.
   
