@@ -38,3 +38,11 @@ This repository includes three parts:
   | Predicted_load.m        | Used to call the above trained models, whcih can be run directly. |
 
   ## :pushpin: Q&A
+
+  **Q**: I want to reproduce the predicted results presented in Table 4 of the manuscript
+  
+  **A**: Store the 'Predicted_BPANN.mat', 'Predicted_GABP.mat' and 'Predicted_load.m' in the same folder and then run the 'Predicted_load.m' accordingly.
+  
+  **Q**: I want to verify the potential applications of the public dataset.
+  
+  **A**: The dataset and code are intended for academic applications.
