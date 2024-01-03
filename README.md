@@ -33,7 +33,7 @@ This repository includes three parts:
   | Dataset_Waspaloy.txt    | The raw value of the nickel-based superalloy, Waspaloy^TM^   |
   | GABP_algorithm.m        | The GA-BP model implemented in Matlab                        |
   | BPANN_algorithm.m       | The BP-ANN model implemented in Matlab                       |
-| Predicted_GABP.mat      | The GA-BP model that had been trained                        |
+  | Predicted_GABP.mat      | The GA-BP model that had been trained                        |
   | Predicted_BPANN.mat     | The BP-ANN model that had been trained                       |
   | Predicted_load.m        | Used to call the above trained models, which can be run directly. |
 
