@@ -24,3 +24,17 @@ This repository includes three parts:
   | SVM_comparison.m   | Support vector machine algorithm implemented in Matlab       |
   | BPANN_comparison.m | Back-propagation artificial neural network algorithm implemented in Matlab |
   | GABP_comparison.m  | Genetic algorithm-optimized BP-ANN algorithm implemented in Matlab |
+
++ ANN_algorithms_based_enlarged_dataset
+
+  | File name               | Description                                                  |
+  | ----------------------- | ------------------------------------------------------------ |
+  | EnlargedDataset_raw.txt | The raw value of the enlarged dataset                        |
+  | Dataset_Waspaloy.txt    | The raw value of the nickel-based superalloy, Waspaloy^TM^   |
+  | GABP_algorithm.m        | The GA-BP model implemented in Matlab                        |
+  | BPANN_algorithm.m       | The BP-ANN model implemented in Matlab                       |
+| Predicted_GABP.mat      | The GA-BP model that had been trained                        |
+  | Predicted_BPANN.mat     | The BP-ANN model that had been trained                       |
+  | Predicted_load.m        | Used to call the above trained models, whcih can be run directly. |
+
+  ## :pushpin: Q&A
