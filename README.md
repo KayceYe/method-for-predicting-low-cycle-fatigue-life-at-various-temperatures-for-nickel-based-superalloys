@@ -12,7 +12,7 @@ This repository includes three parts:
   | File name                         | Description                                               |
   | --------------------------------- | --------------------------------------------------------- |
   | Spearman_correlation_analysis.m   | Spearman correlation analysis implemented in Matlab       |
-  | Spearman_correlation_analysis.txt | Values of spearman correlation coefficients               |
+  | Spearman_correlation_analysis.txt | Values of Spearman correlation coefficients               |
   | Data_cleansing.m                  | Data cleansing implemented in Matlab                      |
   | Data_cleansing.txt                | Values of Manhattan distance separately and the threshold |
 
@@ -35,14 +35,14 @@ This repository includes three parts:
   | BPANN_algorithm.m       | The BP-ANN model implemented in Matlab                       |
 | Predicted_GABP.mat      | The GA-BP model that had been trained                        |
   | Predicted_BPANN.mat     | The BP-ANN model that had been trained                       |
-  | Predicted_load.m        | Used to call the above trained models, whcih can be run directly. |
+  | Predicted_load.m        | Used to call the above trained models, which can be run directly. |
 
   ## :pushpin: Q&A
 
   **Q**: I want to reproduce the predicted results presented in Table 4 of the manuscript
   
-  **A**: Store the 'Predicted_BPANN.mat', 'Predicted_GABP.mat' and 'Predicted_load.m' in the same folder and then run the 'Predicted_load.m' accordingly.
+  **A**: Store the 'Predicted_BPANN.mat', 'Predicted_GABP.mat', and 'Predicted_load.m' in the same folder and then run the 'Predicted_load.m' accordingly.
   
   **Q**: I want to verify the potential applications of the public dataset.
   
-  **A**: The dataset and code are intended for academic applications.
+  **A**: The dataset and code are intended for to support academic research and analysis.
